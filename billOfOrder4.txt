@@ -1,0 +1,5 @@
+Order bill no. 4.
+Client's name: Ionel
+Product purchased: Orhidee
+Quantity: 2
+Final price: 50.0$

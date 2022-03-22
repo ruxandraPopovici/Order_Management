@@ -1,0 +1,5 @@
+Order bill no. 2.
+Client's name: Ruxandra
+Product purchased: Cactus
+Quantity: 12
+Final price: 180.0$

@@ -1,0 +1,5 @@
+Order bill no. 3.
+Client's name: Denisa
+Product purchased: Orhidee
+Quantity: 13
+Final price: 325.0$
